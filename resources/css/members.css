@@ -1,0 +1,30 @@
+.cm-hidden {
+  display: none !important;
+}
+
+ul.cm-account-widget-list {
+  list-style-type: none;
+}
+
+ul.cm-account-widget-links {
+  list-style-type: none;
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+
+ul.cm-account-widget-links li {
+    line-height: 2em;
+}
+
+.cm-account-widget-summary {
+    padding: 5px 0px;
+}
+
+/**
+.cc_cart_widget_wrapper .cc_cart_widget_list {
+}
+
+.cc_cart_widget_wrapper .cc_cart_widget_list_item {
+  list-style-image: none;
+}
+*/

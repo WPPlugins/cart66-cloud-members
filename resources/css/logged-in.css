@@ -1,0 +1,5 @@
+.cc_logged_out,
+.cm-signed-out,
+.cm-logged-out {
+  display: none !important;
+}
